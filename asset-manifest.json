@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EdyodaGridDesign/static/css/main.10bc810f.css",
+    "main.js": "/EdyodaGridDesign/static/js/main.db890a62.js",
+    "static/js/787.f790f970.chunk.js": "/EdyodaGridDesign/static/js/787.f790f970.chunk.js",
+    "index.html": "/EdyodaGridDesign/index.html",
+    "main.10bc810f.css.map": "/EdyodaGridDesign/static/css/main.10bc810f.css.map",
+    "main.db890a62.js.map": "/EdyodaGridDesign/static/js/main.db890a62.js.map",
+    "787.f790f970.chunk.js.map": "/EdyodaGridDesign/static/js/787.f790f970.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10bc810f.css",
+    "static/js/main.db890a62.js"
+  ]
+}
